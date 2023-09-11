@@ -22,3 +22,8 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+## task list syntax
+- [ ] Turn on My Laptop
+- [ ] Open Steam
+- [ ] Play Ni No Kuni 2
